@@ -8,6 +8,7 @@ tsconfig.module.json
 .prettierignore
 .vscode
 build/docs
+build/test
 **/*.spec.*
 coverage
 .nyc_output
