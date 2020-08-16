@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "rootDir": "test",
+    "outDir": "build/test",
+    "noUnusedLocals": false
+  },
+  "include": ["test/**/*.ts"]
+}
